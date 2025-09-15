@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhil Cherukupal</h1>
+<h1 align="center">Hi 👋, I'm Nikhil Cherukupally</h1>
 <h3 align="center">DevOps Engineer passionate about Infrastructure as Code with Terraform & Ansible. Skilled in CI/CD automation, cloud (Azure), and container orchestration with Docker & Kubernetes.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
