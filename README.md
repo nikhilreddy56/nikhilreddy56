@@ -5,7 +5,7 @@
 
 I specialize in Infrastructure as Code (Terraform & Ansible), building secure and scalable cloud platforms across AWS and Azure. From provisioning multi-environment cloud architectures to running production-grade Kubernetes (AKS/EKS) clusters, my focus is always the same: automation first, reliability always.
 
-I enjoy designing CI/CD pipelines that ship faster with confidence, integrating security, monitoring, and observability along the way. My GitHub projects reflect real-world DevOps challenges—EC2 health monitoring with Ansible, Terraform-driven cloud deployments, Prometheus & Grafana monitoring stacks, and Python automation that reduces manual effort.
+I enjoy designing CI/CD pipelines that ship faster with confidence, integrating security, monitoring, and observability along the way. My GitHub projects reflect real-world DevOps challenges,Virtual Machines health monitoring with Ansible, Terraform-driven cloud deployments, Prometheus & Grafana monitoring stacks, and Python automation that reduces manual effort.
 
 When I’m not optimizing pipelines or tuning clusters, I’m exploring better ways to improve cloud security, scalability, and operational excellence.
 <h3 align="left">Connect with me:</h3>
