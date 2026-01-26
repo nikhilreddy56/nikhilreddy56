@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhil Cherukupally</h1>
+<h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">DevOps Engineer passionate about Infrastructure as Code with Terraform & Ansible. Skilled in CI/CD automation, AWS/Azure Cloud, and Container orchestration with Docker & Kubernetes.</h3>
 
 👋 Hi, I’m Nikhil Cherukupally — a DevOps Engineer who loves turning complex infrastructure into clean, automated, and reliable systems.
